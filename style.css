@@ -1,0 +1,46 @@
+ h2{
+   padding-top: 10px;
+   border-bottom: 5px solid #6D6027;
+   border-width: thin;
+   width: 70%;
+ }
+
+ .row{
+  padding-top: 50px;
+  margin: 0 auto;
+}
+
+table{
+  border-collapse:separate;
+  border:solid #E8E8E8 1px;
+  border-radius:6px;
+  -moz-border-radius:6px;
+}
+
+a{
+  margin-left: auto;
+  margin-right: auto;
+  width: 8em
+}
+
+svg {
+  fill: currentColor;
+}
+
+
+.btn-secondary {
+  color: white !important;
+  background-image: linear-gradient(#D3CBB8, #6D6027);
+  width: 100%;
+  border: none;
+}
+
+li{
+  list-style: none;
+  padding-bottom: 10px;
+}
+
+
+.error{
+  color: red;
+}
